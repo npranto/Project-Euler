@@ -38,7 +38,7 @@ function multOfThreeFive(num1, num2, limit) {
 	for (var i = 0; i < num2Array.length; i++) {
 		sum = sum + num2Array[i];
 	}
-		// find sum of the all integers in the final array, all non-repeated integers
+	
 	return sum;
 }
 
