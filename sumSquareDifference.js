@@ -1,4 +1,4 @@
-// sumSquareDifference() function requires you to Find the difference between the sum 
+// sumSquareDifference() function requires you to find the difference between the sum 
 // of the squares of the first one hundred natural numbers and the square of the sum
 
 function sumSquareDifference(limit) {
