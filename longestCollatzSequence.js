@@ -11,6 +11,8 @@
 
 	Which starting number, under one million, produces the longest chain?
 	NOTE: Once the chain starts the terms are allowed to go above one million.
+
+	https://projecteuler.net/problem=14
 */
 
 function longestCollatzSequence(start,end) {
