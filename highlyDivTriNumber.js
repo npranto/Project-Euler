@@ -43,5 +43,3 @@ function factorsOf(number) {
 	}
 	return returnedArray;
 }
-
-console.log(highlyDivTriNumber(100));
