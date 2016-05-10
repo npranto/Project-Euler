@@ -1,4 +1,4 @@
-// multOfThreeFive() method require you to find the sum of all the multiples of num1 or 
+// multOfThreeFive() function requires you to find the sum of all the multiples of num1 or 
 // num2 below 1000
 
 function multOfThreeFive(num1, num2, limit) {

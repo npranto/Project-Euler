@@ -1,4 +1,4 @@
-// largestPalindromeProduct() method requires you to find the largest palindrome made 
+// largestPalindromeProduct() function requires you to find the largest palindrome made 
 // from the product of two 3-digit numbers
 
 function largestPalindromeProduct() {
@@ -23,7 +23,7 @@ function largestPalindromeProduct() {
 			largestPalindromeProduct = palindromeProducts[i];
 		}
 	}
-
+	
 	return largestPalindromeProduct;
 }
 

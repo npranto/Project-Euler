@@ -1,4 +1,4 @@
-// largestPrimeFactor() method requires you to find the largest prime factor of the 
+// largestPrimeFactor() function requires you to find the largest prime factor of the 
 // parameter value
 
 function largestPrimeFactor(largeNumber) {

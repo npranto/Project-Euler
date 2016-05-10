@@ -1,4 +1,4 @@
-// evenFibs() method find the sum of the even Fibonacci numbers in sequence until limit
+// evenFibs() function find the sum of the even Fibonacci numbers in sequence until limit
 
 function evenFibs(limit) {
 	var fibsArray = fibonacci(limit);
